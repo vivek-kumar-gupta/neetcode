@@ -1,3 +1,6 @@
+//Please check this video which has best explaination which is understandable.
+//https://youtu.be/lJLcqDsmYfg
+
 class Solution {
     public int largestRectangleArea(int[] heights) {
       int area = 0, n = heights.length;
