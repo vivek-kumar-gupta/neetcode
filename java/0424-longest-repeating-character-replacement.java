@@ -1,5 +1,8 @@
 class Solution {
 
+    
+    //Please see the way sliding window is implemented.
+    // This is goood as if you go for other way.. will be bit confusing and time consuming.
     public int characterReplacement(String s, int k) {
         int[] arr = new int[26];
         int ans = 0;
